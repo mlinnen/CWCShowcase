@@ -16,9 +16,9 @@ The same fields are used whether you are **Adding** a new entry or **Editing** a
 - **Division**: Select a level (**Novice**, **Intermediate**, or **Open**) using the radio buttons.
 - **Style**: Select the style (**N** or **P**) using the radio buttons.
 - **Team**: Select the judging team from the dropdown. You can search for a team or clear the selection as needed.
-- **1st Place Prize**: The prize amount or description for 1st place.
-- **2nd Place Prize**: The prize amount or description for 2nd place.
-- **3rd Place Prize**: The prize amount or description for 3rd place.
+- **1st Place Prize**: Select the prize from the dropdown. You can search or clear the selection.
+- **2nd Place Prize**: Select the prize from the dropdown. You can search or clear the selection.
+- **3rd Place Prize**: Select the prize from the dropdown. You can search or clear the selection.
 
 ### Adding a New Entry
 1. Click the **Add Icon (+)**.
