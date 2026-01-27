@@ -10,10 +10,7 @@ The application is designed to be used on **mobile phones, tablets, laptops and 
 - **[General Navigation](General-Navigation.md)**: A quick guide on how to move around the app and switch between modules.
 
 ### Common Interface Elements
-<img src="assets/main-menu-mobile.jpg" width="350" alt="Main Menu">
 Regardless of which module you are using, you will encounter several standard controls:
-
-- **Main Menu**: The primary navigation bar (left or bottom, depending on your device) that lets you switch between modules (e.g., Vendors, Competitors, Judging, Categories, Prizes).
 - **Search & Filtering**: Most list views support text search (by Name, ID or other searchable fields) and filtering to help you find specific records quickly.
 - **Refresh**: A **Refresh Button** is located at the top right of the application to manually update the data in the view, though this is usually handled automatically.
 - **Action Icons in Lists**:

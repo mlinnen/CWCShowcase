@@ -3,21 +3,27 @@
 This guide explains how to move around the application, switch between modules, and navigate through different views.
 
 ## Accessing the Main Menu
-The **Main Menu** is your primary way to navigate between different sections of the application.
-- **Mobile/Small Screens**: Tap the **Hamburger Icon (≡)** in the top-left corner to open the side menu.
-- **Desktop/Large Screens**: The menu may appear as a sidebar or a top navigation bar.
+The **Main Menu** is your primary way to navigate between different sections (modules) of the application.
+- **Mobile/Small Screens**: Tap the **Hamburger Icon (≡)** in the top-left corner to open the side menu or you can use the quick buttons on the bottom of the screen (Vendors, Competitors, Categories, Judging or Prizes).
+
+    <img src="assets/menu-navigation-mobile.jpg" width="350" alt="Main Menu Mobile">
+
+- **Desktop/Large Screens**: The menu will appear as a left sidebar.
+
+    <img src="assets/menu-navigation-desktop.jpg" width="550" alt="Main Menu Mobile">
 
 ## Opening a Module
 To open a specific part of the application:
 1. Open the **Main Menu**.
-2. Tap on the desired **Module** (e.g., **Competitors**, **Judging**, or **User Management**).
-3. Some modules may have sub-menus; select the specific view you need (e.g., **Events** or **Categories**).
+2. Tap on the desired **Module** (e.g., **Vendors**, **Competitors**, **Judging**, or **Users**).
+3. Some modules may have sub-menus, but some do not (e.g., **Events** or **Users**).
 
 ## Switching Modules
 If you are already inside a module and want to switch to another:
 1. Tap the **Main Menu** icon (usually the Hamburger icon or the App Logo) in the top-left corner.
-2. Select the new module from the list.
-3. The application will transition to the selected module immediately.
+1. Select the new module from the list.  
+1. On mobile only some modules show up onthe bottom of the screen.
+1. The application will transition to the entry point of the selected module immediately.
 
 ## Navigating Backwards
 To return to a previous screen:
