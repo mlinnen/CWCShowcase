@@ -3,7 +3,7 @@
 This module is used to manage volunteer access to the application. Access is restricted to users assigned the **User Manager** role.
 
 ## 1. Accessing User Management
-1. From the **Main Menu**, select the **User Management** module.
+1. From the **Main Menu**, select the **Users** menu option.
 2. The application will open directly to the **Users** list.
 
 ## 2. Adding a New User
