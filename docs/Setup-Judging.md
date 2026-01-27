@@ -18,8 +18,16 @@ This screen allows you to define which categories and styles are ready for judgi
 ### Editing an Entry
 1. Locate the entry in the list.
 2. Click the **Row** to open the **Detail View**.
-3. Click the **Pencil Icon** to open the edit form and update the category details or reassign the judging team.
-4. Click **Save** to commit changes.
+3. Click the **Pencil Icon** to open the edit form.
+4. Update the following fields as needed:
+    - **Category**: The name of the category.
+    - **Division**: Select a level (**Novice**, **Intermediate**, or **Open**) using the radio buttons.
+    - **Style**: Select the style (**N** or **P**) using the radio buttons.
+    - **Team**: Reassign the judging team.
+    - **1st Place Prize**: The prize amount or description for 1st place.
+    - **2nd Place Prize**: The prize amount or description for 2nd place.
+    - **3rd Place Prize**: The prize amount or description for 3rd place.
+5. Click **Save** to commit changes.
 
 ### Deleting an Entry
 1. Locate the entry you wish to remove.
