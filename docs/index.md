@@ -7,6 +7,7 @@ Welcome to the Charlotte Wood Carvers Showcase Application. This guide provides 
 The application is designed to be used on **mobile phones, tablets, and laptops**.
 
 ### Common Interface Elements
+![Main Menu](assets/main-menu-mobile.jpg)
 Regardless of which module you are using, you will encounter several standard controls:
 
 - **Main Menu**: The primary navigation bar (top or side, depending on your device) that lets you switch between modules (e.g., Competitors, Judging).

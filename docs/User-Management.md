@@ -7,12 +7,16 @@ This module is used to manage volunteer access to the application. Access is res
 2. Select **Users** from the submenu.
 
 ## 2. Adding a New User
+![User List](assets/users-list-mobile.jpg)
+
 To grant a new volunteer access, click the **Add** button and enter the following:
 
 - **Email**: Must be a valid email address.
 - **Name**: The volunteer's full name.
 - **Role**: Select the appropriate role (e.g., Check-In, Judging, Finance). Note that permissions are tied to these roles.
 - **Event**: Assign the user to the current competition event.
+
+![User Edit Form](assets/users-edit.jpg)
 
 ### Important: Google Account & AppSheet Access
 The application uses Google for authentication. Please keep the following in mind:

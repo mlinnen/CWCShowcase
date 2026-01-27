@@ -10,18 +10,18 @@ This guide covers how to check in a competitor on the day of the event.
 - A list of all registered competitors will be displayed.
 - Use the **Search Bar** to find the carver by entering their **ID** or **Name**.
 
-![Screenshot: Finding a Carver](path/to/screenshot-find-carver.png)
+![Finding a Carver](assets/competitors-list-search.jpg)
 
 ## 3. Opening the Check-In Form
 - Once you locate the carver, look for the **Check Box Icon** on the right side of their row.
 - Click the icon to open the check-in form.
 
-![Screenshot: Opening the Carver Form](path/to/screenshot-open-form.png)
+![Opening the Carver Form](assets/competitors-list-landscape-.jpg)
 
 ## 4. Completing Check-In
 Follow these steps within the form:
 
-![Screenshot: Check-In Form Overview](path/to/screenshot-checkin-form.png)
+![Check-In Form](assets/competitors-check-in-form.jpg)
 
 1. **Confirm Competition Level**: Select the correct level using the **Radio Buttons**.
 2. **Total Number of Carvings**: Enter the total number of pieces they are entering today.

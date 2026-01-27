@@ -10,7 +10,7 @@ This guide covers the workflow for the Finance Team (e.g., Finance Officer) to c
 - A list of all registered competitors will be displayed.
 - Use the **Search Bar** to find the competitor by entering their **Carver ID** or **Name**.
 
-![Screenshot: Finding a Competitor for Payment](path/to/screenshot-payment-find.png)
+![Finding a Competitor](assets/competitors-list-search.jpg)
 
 ## 3. Opening the Payment Form
 - Once you locate the competitor, look for the **Dollar Sign Icon ($)** on the right side of their row.
@@ -19,7 +19,7 @@ This guide covers the workflow for the Finance Team (e.g., Finance Officer) to c
 ## 4. Recording Payment
 Follow these steps to record the transaction:
 
-![Screenshot: Payment Form](path/to/screenshot-payment-form.png)
+![Payment Form](assets/competitors-pay-form.jpg)
 
 ### Fee Calculation
 - **Standard Entry Limit**: The base fee covers up to **15 entries**.
