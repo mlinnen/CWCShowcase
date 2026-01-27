@@ -13,26 +13,47 @@ The application is designed to be used on **mobile phones, tablets, laptops and 
 ## Module Overview
 The application is divided into several key modules. Click the links below for detailed instructions on each role.
 
-### 1. Competitors Module
-Used for managing the wood carvers attending the event.
-- **[Check-In Process](Check-In.md)**: For volunteers at the check in desk welcoming carvers.
-- **[Payment Verification](Payment-Verification.md)**: For the Finance Team handling fees and dues.
+### 1. Vendors Module
+Used for managing the vendors that are regfistered for the event.
+- **[Vendors](Vendors.md)**: Management of event vendors and sponsors.
+- **Statistics**: For viewing statistics about registered vendors.
+- **Export Financials**: For reporting on payment details (only available to authorized individuals).
 
-### 2. Judging Module
-Used by judging teams to record competition results.
-- **[Judging Process](Judging.md)**: For judges entering 1st, 2nd, and 3rd place winners.
+### 2. Competitors Module
+Used for managing the wood carvers that are registered for the event. 
+- **Manage Registered Competitors**: 
+    - **[Check-In Process](Check-In.md)**: For volunteers at the check-in desk welcoming carvers to the show.
+    - **[Payment Verification](Payment-Verification.md)**: For the Finance Team handling fees and dues.
+- **Statistics**: For viewing statistics about registered competitors.
+- **Export Financials**: For reporting on payment details (only available to authorized individuals).
+
+### 3. Categories Module
+Used to look up or maintain the categories for a given event.
+- **[Categories](Categories.md)**: Configuration of competition categories and styles.
+- **Export Categories**: For exporting the categories into an excel spreadsheet format.
+- **Setup Categories**: For Admins to configure categories.
+
+### 4. Judging Module
+Used to look up judging results, enter judging results or maintining jusging entries. 
+- **[Judging Process](Judging.md)**: For the judging team to enter 1st, 2nd, and 3rd place winners.
+- **Export Judging**: For exporting the judging entries/configuration into an excel spreadsheet format.
 - **[Setup Judging](Setup-Judging.md)**: For Admins and Judging Managers to configure assignments.
 
-### 3. User Management Module
-*Access restricted to Administrators.*
-- **[User Management](User-Management.md)**: For creating and managing volunteer accounts.
-
-### 4. Event Configuration (Coming Soon)
-These modules are used to set up the event details.
-- **[Events](Events.md)**: Management of the available events for competition.
-- **[Vendors](Vendors.md)**: Management of event vendors and sponsors.
-- **[Categories](Categories.md)**: Configuration of competition categories and styles.
+### 5. Prizes Module
 - **[Prizes](Prizes.md)**: Setup and assignment of prize amounts or trophies.
+- **Export Prizes**: For exporting the prizes into an excel spreadsheet format.
+- **Setup Prizes**: For Admins to configure the available prizes.
+
+### 6. User Management Module
+*Access restricted to Administrators.*
+- **[User Management](User-Management.md)**: For creating and managing volunteer user accounts.
+
+### 7. Events Module
+Used by administrators for defining event details that control registration aspects of the event.
+- **[Events](Events.md)**: Management of the available events for competition.
+
+### 8. Menu Module
+Used by developers of the application for defining menus for the application.
 
 ## Need Help?
-If you encounter technical issues or have questions not covered in this guide, please contact the Event Manager.
+If you encounter technical issues or have questions not covered in this guide, please contact Mike Linnen or Neil McGuire.
