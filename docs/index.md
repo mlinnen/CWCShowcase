@@ -56,6 +56,7 @@ Used by judging teams to record competition results.
 
 ### 4. Event Configuration (Coming Soon)
 These modules are used to set up the event details.
+- **[Events](Events.md)**: Management of the available events for competition.
 - **[Vendors](Vendors.md)**: Management of event vendors and sponsors.
 - **[Categories](Categories.md)**: Configuration of competition categories and styles.
 - **[Prizes](Prizes.md)**: Setup and assignment of prize amounts or trophies.

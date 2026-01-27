@@ -12,6 +12,7 @@ The project consists of a single `docs/` directory containing all documentation 
 ./
 └── docs/
     ├── index.md                  # Main landing page and navigation hub
+    ├── Events.md                 # Event management workflow
     ├── Check-In.md               # Competitor check-in workflow
     ├── Judging.md                # Judging team workflow
     ├── Setup-Judging.md          # Judging configuration workflow
@@ -27,6 +28,7 @@ The project consists of a single `docs/` directory containing all documentation 
 
 ### Core Documentation
 *   **`docs/index.md`**: The entry point for the documentation site. It covers general application usage (navigation, common icons, standard behavior) and links to specific modules.
+*   **`docs/Events.md`**: Instructions for managing competition events.
 *   **`docs/Check-In.md`**: Instructions for volunteers checking in competitors. Covers searching for carvers, confirming entries, and handling payments.
 *   **`docs/Judging.md`**: Instructions for judging teams. Covers filtering by team, scoring entries (1st, 2nd, 3rd), and using numeric inputs.
 *   **`docs/Setup-Judging.md`**: Instructions for Admins and Judging Managers to configure judging categories and assign teams.
