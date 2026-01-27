@@ -4,7 +4,7 @@ This module is used to manage volunteer access to the application. Access is res
 
 ## 1. Accessing User Management
 1. From the **Main Menu**, select the **User Management** module.
-2. Select **Users** from the submenu.
+2. The application will open directly to the **Users** list.
 
 ## 2. Adding a New User
 <img src="assets/users-list-mobile.jpg" width="350" alt="User List">
