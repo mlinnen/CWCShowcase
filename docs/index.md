@@ -48,6 +48,7 @@ Used for managing the wood carvers attending the event.
 ### 2. Judging Module
 Used by judging teams to record competition results.
 - **[Judging Process](Judging.md)**: For judges entering 1st, 2nd, and 3rd place winners.
+- **[Setup Judging](Setup-Judging.md)**: For Admins and Judging Managers to configure assignments.
 
 ### 3. User Management Module
 *Access restricted to Administrators.*
