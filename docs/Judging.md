@@ -16,7 +16,8 @@ This guide covers the judging workflow. The judging process is handled by multip
 
 ## 3. Selecting a Category
 1. Locate the specific **Division**, **Category**, and **Style** you are ready to judge.
-2. Click the **Edit Icon** (pencil) on that row to open the winners form.
+2. Click the **Row** to open the **Detail View**.
+3. Click the **Pencil Icon** to open the winners form.
 
 ## 4. Entering Winners
 One person from the judging team should enter the results for the 1st, 2nd, and 3rd place winners.

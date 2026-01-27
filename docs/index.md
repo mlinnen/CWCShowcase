@@ -16,7 +16,6 @@ Regardless of which module you are using, you will encounter several standard co
     - **Add Icon (+)**: Click this to create a new record (if you have permission).
     - **Copy Icon**: Click this to duplicate a row of data.
     - **Check Box Icon (Top Right)**: Enter **Multi-Select Mode** to perform actions on multiple rows at once.
-    - **Pencil Icon**: Edit an existing record.
     - **Check Box Icon (Row)**: Check a competitor in.
     - **Dollar Sign ($) Icon**: Process a payment.
 - **Communication Icons**:
@@ -26,6 +25,7 @@ Regardless of which module you are using, you will encounter several standard co
 
 ### List & Detail Views
 - **List Navigation**: Clicking anywhere on a list item row will take you to a **Detail View** for that specific record.
+- **Editing Data**: To edit a record, you must first click the row in the list to open the **Detail View**. Once in the Detail View, click the **Pencil Icon** to open the edit form.
 - **Multi-Select**: Besides the top-right icon, you can enter multi-select mode by performing a **Long Press** on any row in the list.
 - **Detail View Actions**: From the Detail View, you can:
     - **Edit**: Modify the record.

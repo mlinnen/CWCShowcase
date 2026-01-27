@@ -17,8 +17,8 @@ This screen allows you to define which categories and styles are ready for judgi
 
 ### Editing an Entry
 1. Locate the entry in the list.
-2. Click the **Pencil Icon** on that row.
-3. Update the category details or reassign the judging team.
+2. Click the **Row** to open the **Detail View**.
+3. Click the **Pencil Icon** to open the edit form and update the category details or reassign the judging team.
 4. Click **Save** to commit changes.
 
 ### Deleting an Entry
