@@ -1,17 +1,20 @@
 # General Application Usage
 
-Welcome to the Charlotte Wood Carvers Showcase Application. This guide provides an overview of the system, common navigation patterns, and links to specific role-based instructions.
+Welcome to the Charlotte Wood Carvers Showcase Application (CWC Showcase). This guide provides an overview of the system, common navigation patterns, and links to specific role-based instructions.
 
 ## Getting Started
+You must be invited to use the application by either Mike Linnen of Neal McGuire.  Contact them for access and you will need a google or gmail account before you can be granted access.
 
-The application is designed to be used on **mobile phones, tablets, and laptops**.
+The application is designed to be used on **mobile phones, tablets, laptops and desktops**.  For laptops and desktops you can use a web browser to access the application.  For phone and tablets, iOS and Android devices are supported but Amazon Fire tablets are not.  On phones and tablets it does require the end user to install Google AppSheet onto their device before using the Showcase App.  Once you install AppSheet onto your device you can open it up and log into your google account and the CWC Showcase app will be in your AppSheet list to open up.  
+
+- **[General Navigation](General-Navigation.md)**: A quick guide on how to move around the app and switch between modules.
 
 ### Common Interface Elements
 <img src="assets/main-menu-mobile.jpg" width="350" alt="Main Menu">
 Regardless of which module you are using, you will encounter several standard controls:
 
-- **Main Menu**: The primary navigation bar (top or side, depending on your device) that lets you switch between modules (e.g., Competitors, Judging).
-- **Search & Filtering**: Most list views support search (by Name or ID) and filtering to help you find specific records quickly.
+- **Main Menu**: The primary navigation bar (left or bottom, depending on your device) that lets you switch between modules (e.g., Vendors, Competitors, Judging, Categories, Prizes).
+- **Search & Filtering**: Most list views support text search (by Name, ID or other searchable fields) and filtering to help you find specific records quickly.
 - **Refresh**: A **Refresh Button** is located at the top right of the application to manually update the data in the view, though this is usually handled automatically.
 - **Action Icons in Lists**:
     - **Add Icon (+)**: Click this to create a new record (if you have permission).
@@ -43,8 +46,8 @@ The application is divided into several key modules. Click the links below for d
 
 ### 1. Competitors Module
 Used for managing the wood carvers attending the event.
-- **[Check-In Process](Check-In.md)**: For volunteers at the front desk welcoming carvers.
-- **[Payment Processing](Payment-Processing.md)**: For the Finance Team handling fees and dues.
+- **[Check-In Process](Check-In.md)**: For volunteers at the check in desk welcoming carvers.
+- **[Payment Verification](Payment-Verification.md)**: For the Finance Team handling fees and dues.
 
 ### 2. Judging Module
 Used by judging teams to record competition results.

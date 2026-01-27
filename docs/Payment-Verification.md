@@ -1,4 +1,4 @@
-# Payment Processing
+# Payment Verification
 
 This guide covers the workflow for the Finance Team (e.g., Finance Officer) to collect and record payments from competitors.  Payment can be collected before the event by the competitor registering and making a payment online, mailing in a check or paying in cash.  Payment can also be collected the day of the event.  In some cases if a competitor entered in more than 15 carvings then extra payment may need to be collected the day of the event.
 
