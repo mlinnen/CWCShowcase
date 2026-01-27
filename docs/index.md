@@ -1,5 +1,4 @@
 # General Info
-
 Welcome to the Charlotte Wood Carvers Showcase Application (CWC Showcase). This guide provides an overview of the system, common navigation patterns, and links to specific role-based instructions.
 
 ## Getting Started
@@ -15,13 +14,13 @@ The application is divided into several key modules. Click the links below for d
 
 ### 1. Vendors Module
 Used for managing the vendors that are regfistered for the event.
-- **[Vendors](Vendors.md)**: Management of event vendors and sponsors.
+- **[Vendors](Vendors.md)**: For viewing or management of event vendors.
 - **Statistics**: For viewing statistics about registered vendors.
 - **Export Financials**: For reporting on payment details (only available to authorized individuals).
 
 ### 2. Competitors Module
 Used for managing the wood carvers that are registered for the event. 
-- **Manage Registered Competitors**: 
+- **Competitors**: For viewing or management the registered carvers.
     - **[Check-In Process](Check-In.md)**: For volunteers at the check-in desk welcoming carvers to the show.
     - **[Payment Verification](Payment-Verification.md)**: For the Finance Team handling fees and dues.
 - **Statistics**: For viewing statistics about registered competitors.
@@ -29,27 +28,27 @@ Used for managing the wood carvers that are registered for the event.
 
 ### 3. Categories Module
 Used to look up or maintain the categories for a given event.
-- **[Categories](Categories.md)**: Configuration of competition categories and styles.
+- **[Categories](Categories.md)**: For viewing the categories and styles that carvings can be placed in.
 - **Export Categories**: For exporting the categories into an excel spreadsheet format.
-- **Setup Categories**: For Admins to configure categories.
+- **Setup Categories**: For Admins to configure categories that carvings are placed in.
 
 ### 4. Judging Module
 Used to look up judging results, enter judging results or maintining jusging entries. 
-- **[Judging Process](Judging.md)**: For the judging team to enter 1st, 2nd, and 3rd place winners.
+- **[Judging](Judging.md)**: For the judging team to enter 1st, 2nd, and 3rd place winners.
 - **Export Judging**: For exporting the judging entries/configuration into an excel spreadsheet format.
-- **[Setup Judging](Setup-Judging.md)**: For Admins and Judging Managers to configure assignments.
+- **[Setup Judging](Setup-Judging.md)**: For Admins to configure everything that needs to be judged as well as assigning the teams that will be doing the judging.
 
 ### 5. Prizes Module
-- **[Prizes](Prizes.md)**: Setup and assignment of prize amounts or trophies.
+- **[Prizes](Prizes.md)**: For view what prizes or trophies are available and who won them.
 - **Export Prizes**: For exporting the prizes into an excel spreadsheet format.
 - **Setup Prizes**: For Admins to configure the available prizes.
 
 ### 6. User Management Module
-*Access restricted to Administrators.*
+Used to manage user access to the various modules and roles.  This module does not have a sub-menu so if you have access to it you will be dropped right into the list of users.  
 - **[User Management](User-Management.md)**: For creating and managing volunteer user accounts.
 
 ### 7. Events Module
-Used by administrators for defining event details that control registration aspects of the event.
+Used by administrators for defining event details that control registration aspects of the event. This module does not have a sub-menu so if you have access to it you will be dropped right into the list of Events.  
 - **[Events](Events.md)**: Management of the available events for competition.
 
 ### 8. Menu Module
