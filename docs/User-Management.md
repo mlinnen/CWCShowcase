@@ -26,6 +26,8 @@ The application uses Google for authentication. Please keep the following in min
 4. **Passwords**: The application does not manage passwords. Users manage their own password and security settings directly through their Google Account.
 
 ## 3. Managing Roles
+<img src="assets/users-edit-role-dropdown.jpg" width="350" alt="Managing Roles">
+
 Users can be assigned multiple roles. These roles determine which modules (like Judging or Finance) are visible and editable when they log in. Specific role definitions will be provided as the event configuration is finalized.
 
 ## 4. Saving Changes
