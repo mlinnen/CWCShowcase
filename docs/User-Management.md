@@ -26,7 +26,19 @@ The application uses Google for authentication. Please keep the following in min
 ## 3. Managing Roles
 <img src="assets/users-edit-role-dropdown.jpg" width="350" alt="Managing Roles">
 
-Users can be assigned multiple roles. These roles determine which modules (like Judging or Finance) are visible and editable when they log in. Specific role definitions will be provided as the event configuration is finalized.
+Users can be assigned multiple roles. These roles determine which modules (like Judging or Finance) are visible and editable when they log in. 
+
+### Common Roles
+| Role | Description | Modules Accessible |
+| --- | --- | --- |
+| **Admin** | Full access to all modules and settings. | All |
+| **Event Manager** | Can manage events and basic configuration. | Events, Categories, Prizes |
+| **Check-In** | Can check in competitors and update entries. | Competitors (Check-In) |
+| **Finance** | Can record payments and view financial summaries. | Competitors (Payment), Exports |
+| **Judging** | Can enter judging results for assigned categories. | Judging |
+| **User Manager** | Can manage user accounts and role assignments. | User Management |
+
+*Note: Specific role definitions and permissions may be adjusted as the event configuration is finalized.*
 
 ## 4. Saving Changes
 - **Save**: Click the **Save** button to create or update the user. 

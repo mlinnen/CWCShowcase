@@ -5,6 +5,8 @@ This guide covers how to check in a competitor on the day of the event.
 1. From the **Main Menu**, select the **Competitors** module.
 2. Select **Competitors** from the submenu.
 
+    <img src="assets/competitor-submenu-mobile.jpg" width="350" alt="Competitor Submenu">
+
 ## 2. Finding a Carver
 - A list of all registered competitors will be displayed.
 - Use the **Search Bar** to find the carver by entering their **ID** or **Name**.

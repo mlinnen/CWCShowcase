@@ -12,7 +12,7 @@ The application is designed to be used on **mobile phones, tablets, laptops and 
 The application is divided into several key modules. Click the links below for detailed instructions on each role.
 
 ### 1. Vendors Module
-Used for managing the vendors that are regfistered for the event.
+Used for managing the vendors that are registered for the event.
 - **[Vendors](Vendors.md)**: For viewing or management of event vendors.
 - **Statistics**: For viewing statistics about registered vendors.
 - **Export Financials**: For reporting on payment details (only available to authorized individuals).
@@ -32,7 +32,7 @@ Used to look up or maintain the categories for a given event.
 - **Setup Categories**: For Admins to configure categories that carvings are placed in.
 
 ### 4. Judging Module
-Used to look up judging results, enter judging results or maintining jusging entries. 
+Used to look up judging results, enter judging results or maintining judging entries. 
 - **[Judging](Judging.md)**: For the judging team to enter 1st, 2nd, and 3rd place winners.
 - **Export Judging**: For exporting the judging entries/configuration into an excel spreadsheet format.
 - **[Setup Judging](Setup-Judging.md)**: For Admins to configure everything that needs to be judged as well as assigning the teams that will be doing the judging.

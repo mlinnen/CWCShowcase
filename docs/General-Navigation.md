@@ -5,17 +5,22 @@ This guide explains how to move around the application, switch between modules, 
 The **Main Menu** is your primary way to navigate between different sections (modules) of the application.
 - **Mobile/Small Screens**: Tap the **Hamburger Icon (≡)** in the top-left corner to open the side menu or you can use the quick buttons on the bottom of the screen (Vendors, Competitors, Categories, Judging or Prizes).
 
-    <img src="assets/menu-navigation-mobile.jpg" width="350" alt="Main Menu Mobile">
+    <img src="assets/main-menu-open-mobile.jpg" width="350" alt="Open Main Menu Mobile">
 
 - **Desktop/Large Screens**: The menu will appear as a left sidebar.
 
-    <img src="assets/menu-navigation-desktop.jpg" width="550" alt="Main Menu Mobile">
+    <img src="assets/menu-navigation-desktop.jpg" width="550" alt="Main Menu Desktop">
 
 ## Opening a Module
 To open a specific part of the application:
 1. Open the **Main Menu**.
 2. Tap on the desired **Module** (e.g., **Vendors**, **Competitors**, **Judging**, or **Users**).
+
+    <img src="assets/main-menu-main-modules-mobile.jpg" width="350" alt="Main Modules">
+
 3. Some modules may have sub-menus, but some do not (e.g., **Events** or **Users**).
+
+    <img src="assets/main-menu-secondary-modules-mobile.jpg" width="350" alt="Secondary Modules">
 
 ## Switching Modules
 If you are already inside a module and want to switch to another:
@@ -27,6 +32,8 @@ If you are already inside a module and want to switch to another:
 ## Navigating Backwards
 To return to a previous screen:
 - **Header Back Arrow**: In **Detail Views** or **Forms**, a **Back Arrow (←)** is typically located in the top-left corner of the header. Clicking this will take you back to the previous list or menu.
+
+    <img src="assets/navigate-back.jpg" width="350" alt="Navigate Back">
 - **Cancel Button**: In forms, the **Cancel** button will discard changes and return you to the previous screen.
 - **System Back Button**: On Android devices or browsers, the system "Back" button can also be used to return to the previous view.
 

@@ -4,7 +4,13 @@ This guide explains some of the common user interface elements that are used thr
 ## Common Interface Elements
 Regardless of which module you are using, you will encounter several standard controls:
 - **Search & Filtering**: Most list views support text search (by Name, ID or other searchable fields) and filtering to help you find specific records quickly.
+
+    <img src="assets/list-filter-options.jpg" width="350" alt="Search and Filter">
+
 - **Refresh**: A **Refresh Button** is located at the top right of the application to manually update the data in the view, though this is usually handled automatically.
+
+    <img src="assets/data-refresh-action.jpg" width="350" alt="Refresh Button">
+
 - **Action Icons in Lists**:
     - **Add Icon (+)**: Click this to create a new record (if you have permission).
     - **Copy Icon**: Click this to duplicate a row of data.

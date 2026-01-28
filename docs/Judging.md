@@ -7,11 +7,11 @@ This guide covers the judging workflow. The judging process is handled by multip
 1. From the **Main Menu**, select the **Judging** module.
 2. Select **Judging** from the submenu.
 
+    <img src="assets/judging-submenu-mobile.jpg" width="350" alt="Judging Submenu">
+
 ## 2. Filtering for Your Team
 - Upon loading, you may see a list of all judging assignments.
 - Use the **Team Filter** to display only the categories assigned to your specific team (e.g., Team 1, Team 2, etc.).
-
-![Screenshot: Judging List with Team Filter](path/to/screenshot-judging-filter.png)
 
 ## 3. Selecting a Category
 1. Locate the specific **Division**, **Category**, and **Style** you are ready to judge.
@@ -26,8 +26,6 @@ One person from the judging team should enter the results for the 1st, 2nd, and 
 2. **Entry Number**: Enter the specific entry number for the winning piece.
     - This is a numeric field. You can type the number directly or use the **Up/Down Arrows** to increment/decrement the value.
     - *Note: Only enter placements that have been awarded. If there is no 2nd or 3rd place, leave those fields blank.*
-
-![Screenshot: Entering Winners Form](path/to/screenshot-entering-winners.png)
 
 ## 5. Finalizing Results
 - **Save**: Click the **Save** button to record the winners.

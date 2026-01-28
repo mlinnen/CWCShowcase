@@ -5,6 +5,8 @@ This module is used to configure the judging assignments for the event. Access i
 1. From the **Main Menu**, select the **Judging** module.
 2. Select **Setup Judging** from the submenu.
 
+    <img src="assets/judging-submenu-mobile.jpg" width="350" alt="Judging Submenu">
+
 ## 2. Managing Judging Entries
 This screen allows you to define which categories and styles are ready for judging and which teams are assigned to them.
 

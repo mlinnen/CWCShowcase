@@ -5,6 +5,8 @@ This guide covers the workflow for the Finance Team (e.g., Finance Officer) to c
 1. From the **Main Menu**, select the **Competitors** module.
 2. Select **Competitors** from the submenu.
 
+    <img src="assets/competitor-submenu-mobile.jpg" width="350" alt="Competitor Submenu">
+
 ## 2. Finding a Competitor
 - A list of all registered competitors will be displayed.
 - Use the **Search Bar** to find the competitor by entering their **Carver ID** or **Name**.
