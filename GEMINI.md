@@ -17,13 +17,18 @@ The project consists of a single `docs/` directory containing all documentation 
     ├── General-Navigation.md     # How to get around in the application
     ├── Judging.md                # Judging team workflow
     ├── Setup-Judging.md          # Judging configuration workflow
-        ├── Carver-Payment-Verification.md   # Finance team workflow
-        ├── User-Management.md                 # Administrator guide for managing users
+    ├── Carver-Payment-Verification.md   # Finance team workflow
+    ├── User-Management.md        # Administrator guide for managing users
     ├── General-Application-Usage.md # (Renamed to index.md)
     ├── Categories.md             # (Placeholder) Competition category config
     ├── Prizes.md                 # (Placeholder) Prize config
     └── Vendors.md                # (Placeholder) Vendor management
 ```
+
+## Gemini Configuration
+### Model Priority
+1. **gemini-2.0-flash** (Default for speed and efficiency)
+2. **gemini-1.5-pro** (For complex reasoning and deep codebase analysis)
 
 ## Key Files & Modules
 
