@@ -1,5 +1,4 @@
 # Check-In Process
-
 This guide covers how to check in a competitor on the day of the event.
 
 ## 1. Accessing Competitors
@@ -18,7 +17,7 @@ This guide covers how to check in a competitor on the day of the event.
     <img src="assets/competitors-list-filter-applied.jpg" width="350" alt="Finding a Carver">
 
 ## 3. Opening the Check-In Form
-- Once you locate the carver, look for the **Check Box Icon** on the right side of their row.
+- Once you locate the carver, look for the **Check Box Icon** on the row.
 
     <img src="assets/competitors-list-landscape-.jpg" width="350" alt="Opening the Carver Form">
 - Click the icon to open the check-in form.
@@ -29,12 +28,12 @@ Follow these steps within the form:
 <img src="assets/competitors-check-in-form.jpg" width="350" alt="Check-In Form">
 
 1. **Confirm Competition Level**: Select the correct level using the **Radio Buttons**.
-2. **Total Number of Carvings**: Enter the total number of pieces they are entering today.
-3. **Checked In**: Select the **Yes** radio button to toggle their status.
-4. **Payment**:
+1. **Total Number of Carvings**: Enter the total number of pieces they are entering today.
+1. **Checked In**: Select the **Yes** radio button to toggle their status.
+1. **Payment**:
     - Review the **Payment Required** status.
     - If **Payment Required = Yes** or they have more than 15 carvings, direct the carver to the **Finance Officer (Don)** to collect the funds.
-\5. **Save**: Click the **Save** button to complete the process. 
+1. **Save**: Click the **Save** button to complete the process. 
     - *Note: There is no confirmation message after clicking Save; the form will simply close.*
-6. **Cancel**: If you need to exit without saving, click the **Cancel** button.
+1. **Cancel**: If you need to exit without saving, click the **Cancel** button.
     - *Note: You will not be prompted for confirmation when canceling.*

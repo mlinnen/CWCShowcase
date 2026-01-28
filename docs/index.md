@@ -1,6 +1,5 @@
 # General Info
 Welcome to the Charlotte Wood Carvers Showcase Application (CWC Showcase). This guide provides an overview of the system, common navigation patterns, and links to specific role-based instructions.
-
 ## Getting Started
 You must be invited to use the application by either Mike Linnen of Neal McGuire.  Contact them for access and you will need a google or gmail account before you can be granted access.
 
@@ -22,7 +21,7 @@ Used for managing the vendors that are regfistered for the event.
 Used for managing the wood carvers that are registered for the event. 
 - **Competitors**: For viewing or management the registered carvers.
     - **[Check-In Process](Check-In.md)**: For volunteers at the check-in desk welcoming carvers to the show.
-    - **[Payment Verification](Carver-Payment-Verification.md)**: For the Finance Team handling fees and dues.
+    - **[Carver Payment Verification](Carver-Payment-Verification.md)**: For the Finance Team handling carver fees and dues.
 - **Statistics**: For viewing statistics about registered competitors.
 - **Export Financials**: For reporting on payment details (only available to authorized individuals).
 
