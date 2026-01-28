@@ -1,5 +1,4 @@
-# Judging Process
-
+# Judging
 This guide covers the judging workflow. The judging process is handled by multiple teams, each assigned to specific divisions, categories, or styles.
 
 > **Note:** Your team will only have permission to edit the judging entries assigned to you. You will not be able to edit entries belonging to other teams.

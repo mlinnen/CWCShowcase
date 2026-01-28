@@ -1,5 +1,4 @@
 # Setup Judging
-
 This module is used to configure the judging assignments for the event. Access is restricted to users with the **Admin** or **Judging Manager** roles.
 
 ## 1. Accessing Setup Judging

@@ -1,5 +1,4 @@
 # Events
-
 This module is used to manage the available events for competition. Access is restricted to users with the **Event Manager** role.  
 
 Only 1 event can be active at a given time but nothing ensures that is the case so care needs to be taken when changing what event is active or not.  There are a number of automated processes that trigger off the active event based on the dates that are setup in the record.  The online registration form will be enabled or disabled based on these dates for the active event only.

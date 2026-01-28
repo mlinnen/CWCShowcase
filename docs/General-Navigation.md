@@ -1,5 +1,4 @@
 # General Navigation
-
 This guide explains how to move around the application, switch between modules, and navigate through different views.
 
 ## Accessing the Main Menu

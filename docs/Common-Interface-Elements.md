@@ -1,5 +1,4 @@
 # Common Inteface Elements
-
 This guide explains some of the common user interface elements that are used throught the application no matter what module you are in.
 
 ## Common Interface Elements
