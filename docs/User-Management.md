@@ -28,17 +28,33 @@ The application uses Google for authentication. Please keep the following in min
 
 Users can be assigned multiple roles. These roles determine which modules (like Judging or Finance) are visible and editable when they log in. 
 
-### Common Roles
-| Role | Description | Modules Accessible |
-| --- | --- | --- |
-| **Admin** | Full access to all modules and settings. | All |
-| **Event Manager** | Can manage events and basic configuration. | Events, Categories, Prizes |
-| **Check-In** | Can check in competitors and update entries. | Competitors (Check-In) |
-| **Finance** | Can record payments and view financial summaries. | Competitors (Payment), Exports |
-| **Judging** | Can enter judging results for assigned categories. | Judging |
-| **User Manager** | Can manage user accounts and role assignments. | User Management |
+### Available Roles
+The following roles can be assigned to users to control their level of access within the application:
 
-*Note: Specific role definitions and permissions may be adjusted as the event configuration is finalized.*
+| Role | Description |
+| --- | --- |
+| **Admin** | Full access to all modules, settings, and administrative functions. |
+| **Competitor Manager** | Can add, edit, and manage all competitor registrations and check-ins. |
+| **Competitor Read Only** | Can view competitor information but cannot make changes. |
+| **Vendor Manager** | Can add, edit, and manage all vendor registrations and assignments. |
+| **Vendor Read Only** | Can view vendor information but cannot make changes. |
+| **Team A, B, C, D** | Assigned to specific judging teams for entering results in their assigned categories. |
+| **Judging Manager** | Can manage the entire judging process, including team and prize assignments. |
+| **Judging Read Only** | Can view judging results but cannot enter or modify winners. |
+| **Judging Team Assignment** | Specifically for assigning judging teams to categories. |
+| **Manage Payments** | Can record transaction details and verify payments (Finance role). |
+| **User Manager** | Can manage user accounts, permissions, and role assignments. |
+| **User Read Only** | Can view user accounts and roles but cannot modify them. |
+| **Category Manager** | Can configure competition divisions, categories, and styles. |
+| **Category Read Only** | Can view category configurations but cannot modify them. |
+| **Prize Manager** | Can configure and manage the available prizes and awards. |
+| **Prize Read Only** | Can view prize information but cannot modify them. |
+| **Event Manager** | Can define event details, dates, and registration windows. |
+| **Event Read Only** | Can view event details but cannot modify them. |
+| **Menu Manager** | Can configure and manage the application's navigation menus. |
+| **Menu Read Only** | Can view menu configurations but cannot modify them. |
+
+*Note: Users can be assigned multiple roles if they need access to several modules (e.g., both Judging and Competitor management).*
 
 ## 4. Saving Changes
 - **Save**: Click the **Save** button to create or update the user. 
