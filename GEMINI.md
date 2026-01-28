@@ -18,6 +18,7 @@ The project consists of a single `docs/` directory containing all documentation 
     ├── Judging.md                # Judging team workflow
     ├── Setup-Judging.md          # Judging configuration workflow
     ├── Assign-Teams.md           # Bulk team assignment workflow
+    ├── Assign-Prizes.md          # Prize assignment workflow
     ├── Carver-Payment-Verification.md   # Finance team workflow
     ├── User-Management.md        # Administrator guide for managing users
     ├── General-Application-Usage.md # (Renamed to index.md)
@@ -41,6 +42,7 @@ The project consists of a single `docs/` directory containing all documentation 
 *   **`docs/Judging.md`**: Instructions for judging teams. Covers filtering by the assigned team, assigned carvers and entry number to 1st, 2nd, or 3rd place.
 *   **`docs/Setup-Judging.md`**: Instructions for Admins and Judging Managers to configure judging categories and assign teams.
 *   **`docs/Assign-Teams.md`**: Instructions for Judging Managers to perform bulk team assignments using multi-select or individual entry editing.
+*   **`docs/Assign-Prizes.md`**: Instructions for Judging Managers to assign prizes and awards to specific competition categories.
 *   **`docs/Carver-Payment-Verification.md`**: Instructions for the Finance Team. Covers fee calculations (including overage fees), payment methods (Cash/Check/Online), and receipt handling.
 *   **`docs/User-Management.md`**: Instructions for Administrators. Covers adding users, Google Account requirements, and AppSheet sharing permissions.
 
