@@ -3,7 +3,7 @@ This guide covers how an **Admin** assigns specific prizes (cash or trophies) to
 
 ## 1. Accessing Setup Judging
 1. From the **Main Menu**, select the **Judging** module.
-2. Select **Setup Judging** from the submenu.
+1. Select **Setup Judging** from the submenu.
 
     <img src="assets/judging-submenu-mobile.jpg" width="350" alt="Judging Submenu">
 
@@ -14,13 +14,18 @@ This guide covers how an **Admin** assigns specific prizes (cash or trophies) to
 
 ## 3. Assigning Prizes
 1. Once you locate the entry, click the **Row** to open the **Detail View**.
-2. Click the **Pencil Icon** to open the edit form.
-3. **Prize Assignments**: 
+1. Click the **Pencil Icon** to open the edit form.
+
+    <img src="assets/setup-judging-form-prize-assignment.jpg" width="350" alt="Prize Assignment">
+
+1. **Prize Assignments**: 
     - Find the **1st Place Prize** dropdown and select the appropriate award.
     - Repeat for **2nd Place Prize** and **3rd Place Prize** if applicable.
     - You can search within these dropdowns to find specific prizes (e.g., "Best of Show", "1st Place Ribbon").
 
-4. **Save**: Click the **Save** button to commit the changes.
+    <img src="assets/setup-judging-form-prize-dropdown.jpg" width="350" alt="Prize Assignment">
+
+1. **Save**: Click the **Save** button to commit the changes.
     - *Note: The form will close immediately without a confirmation message.*
 
 ## 4. Verification
