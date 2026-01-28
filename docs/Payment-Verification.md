@@ -10,11 +10,13 @@ This guide covers the workflow for the Finance Team (e.g., Finance Officer) to c
 - A list of all registered competitors will be displayed.
 - Use the **Search Bar** to find the competitor by entering their **Carver ID** or **Name**.
 
-<img src="assets/competitors-list-search.jpg" width="350" alt="Finding a Competitor">
+    <img src="assets/competitors-list-search.jpg" width="350" alt="Finding a Competitor">
 
 ## 3. Opening the Payment Form
 - Once you locate the competitor, look for the **Dollar Sign Icon ($)** on the right side of their row.
 - Click the icon to open the payment details form.
+
+    <img src="assets/competitors-list-payment.jpg" width="350" alt="Paymjent Icon">
 
 ## 4. Recording Payment
 Follow these steps to record the transaction:
