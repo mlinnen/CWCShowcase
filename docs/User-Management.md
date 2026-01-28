@@ -16,6 +16,19 @@ To grant a new volunteer access, click the **Add** button and enter the followin
 
 <img src="assets/users-edit.jpg" width="350" alt="User Edit Form">
 
+### 2.1 Copying an Existing User
+To make adding a new user easier, you can copy an existing user who already has the roles you want to assign.
+
+1. Locate a user in the **Users** list with the desired roles.
+2. Click the **Row** to open the **Detail View**.
+
+    <img src="assets/users-detail.jpg" width="350" alt="User Detail View">
+
+3. Click the **Copy Icon** (typically located in the top header or as a primary action).
+4. A new form will open with the **Roles** and **Event** already filled in.
+5. Update the **Email** and **Name** for the new volunteer.
+6. Click **Save** to create the new account.
+
 ### Important: Google Account & AppSheet Access
 The application uses Google for authentication. Please keep the following in mind:
 1. **Google Account**: The email address provided **must** be associated with a Google Account.
