@@ -22,7 +22,7 @@ Used for managing the vendors that are regfistered for the event.
 Used for managing the wood carvers that are registered for the event. 
 - **Competitors**: For viewing or management the registered carvers.
     - **[Check-In Process](Check-In.md)**: For volunteers at the check-in desk welcoming carvers to the show.
-    - **[Payment Verification](Payment-Verification.md)**: For the Finance Team handling fees and dues.
+    - **[Payment Verification](Carver-Payment-Verification.md)**: For the Finance Team handling fees and dues.
 - **Statistics**: For viewing statistics about registered competitors.
 - **Export Financials**: For reporting on payment details (only available to authorized individuals).
 

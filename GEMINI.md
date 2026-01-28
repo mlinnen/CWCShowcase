@@ -1,7 +1,7 @@
 # Charlotte Wood Carvers Showcase Application - Documentation
 
 ## Project Overview
-This directory contains the source documentation for the **Charlotte Wood Carvers Showcase Application**. The application is used to manage the wood carver competition on the day of the event, including competitor check-in, judging, payment verification, and user management.
+This directory contains the source documentation for the **Charlotte Wood Carvers Showcase Application**. The application is used to manage the wood carver competition on the day of the event, including competitor check-in, judging, payment verification, and user management.  The Application was written using Google AppSheet.
 
 The documentation is written in **Markdown** and is structured to be hosted on **GitHub Pages**, providing an accessible, mobile-friendly guide for event volunteers and administrators.
 
@@ -17,8 +17,8 @@ The project consists of a single `docs/` directory containing all documentation 
     ├── General-Navigation.md     # How to get around in the application
     ├── Judging.md                # Judging team workflow
     ├── Setup-Judging.md          # Judging configuration workflow
-    ├── Payment-Verification.md   # Finance team workflow
-    ├── User-Management.md        # Administrator guide for managing users
+        ├── Carver-Payment-Verification.md   # Finance team workflow
+        ├── User-Management.md                 # Administrator guide for managing users
     ├── General-Application-Usage.md # (Renamed to index.md)
     ├── Categories.md             # (Placeholder) Competition category config
     ├── Prizes.md                 # (Placeholder) Prize config
@@ -34,7 +34,7 @@ The project consists of a single `docs/` directory containing all documentation 
 *   **`docs/General-Navigation.md`**: Instructions for volunteers on how to get around in the application using menus and various buttons.
 *   **`docs/Judging.md`**: Instructions for judging teams. Covers filtering by the assigned team, assigned carvers and entry number to 1st, 2nd, or 3rd place.
 *   **`docs/Setup-Judging.md`**: Instructions for Admins and Judging Managers to configure judging categories and assign teams.
-*   **`docs/Payment-Verification.md`**: Instructions for the Finance Team. Covers fee calculations (including overage fees), payment methods (Cash/Check/Online), and receipt handling.
+*   **`docs/Carver-Payment-Verification.md`**: Instructions for the Finance Team. Covers fee calculations (including overage fees), payment methods (Cash/Check/Online), and receipt handling.
 *   **`docs/User-Management.md`**: Instructions for Administrators. Covers adding users, Google Account requirements, and AppSheet sharing permissions.
 
 ### Future/Placeholder Modules
