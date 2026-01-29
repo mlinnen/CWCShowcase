@@ -31,7 +31,7 @@ Follow these steps within the form:
 
 1. **Confirm Competition Level**: Select the correct level using the **Radio Buttons**.
 1. **Total Number of Carvings**: Enter the total number of pieces they are entering today.
-1. **Checked In**: Select the **Yes** radio button to toggle their status.
+1. **Checked In**: Select the **Yes** radio button to toggle their status.  This should automatically be set to Yes for you and you won't be able to leave it as No and save your changes.  So only use the Check-In form to actually check in a person (not look up to see if they are checked in).
 1. **Payment**:
     - Review the **Payment Required** status.
     - If **Payment Required = Yes** or they have more than 15 carvings, direct the carver to the **Finance Officer (Don)** to collect the funds.
@@ -39,3 +39,5 @@ Follow these steps within the form:
     - *Note: There is no confirmation message after clicking Save; the form will simply close.*
 1. **Cancel**: If you need to exit without saving, click the **Cancel** button.
     - *Note: You will not be prompted for confirmation when canceling.*
+
+

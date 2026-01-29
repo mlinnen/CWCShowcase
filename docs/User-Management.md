@@ -45,7 +45,7 @@ The following roles can be assigned to users to control their level of access wi
 
 | Role | Description |
 | --- | --- |
-| **Admin** | Full access to most modules, settings, and administrative functions. Except Users, Events and Menu. |
+| **Admin** | Full access to most modules, settings, and administrative functions. Except Users, Events and Menu. Only use Admin role if you have to. |
 | **Competitor Manager** | Can manage all competitor registrations and check-ins. |
 | **Competitor Read Only** | Can view competitor information but cannot make changes. |
 | **Vendor Manager** | Can manage all vendor registrations. |
