@@ -57,3 +57,6 @@ Used by developers of the application for defining menus for the application.
 
 ## Need Help?
 If you encounter technical issues or have questions not covered in this guide, please contact Mike Linnen or Neil McGuire.
+
+## Operations
+- **[Tasks](Tasks.md)**: A list of operational tasks for the event.
