@@ -20,6 +20,7 @@ Used for managing the vendors that are registered for the event.
 ### 2. Competitors Module
 Used for managing the wood carvers that are registered for the event. 
 - **Competitors**: For viewing or management the registered carvers.
+    - **[Update Registration Details](Update-Competitor-Registration-Details.md)**: For managing a competitor registration details.
     - **[Check-In Process](Check-In.md)**: For volunteers at the check-in desk welcoming carvers to the show.
     - **[Carver Payment Verification](Carver-Payment-Verification.md)**: For the Finance Team handling carver fees and dues.
 - **Statistics**: For viewing statistics about registered competitors.
