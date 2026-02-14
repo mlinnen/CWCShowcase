@@ -29,9 +29,10 @@ Follow these steps within the form:
 
 <img src="assets/competitors-check-in-form.jpg" width="350" alt="Check-In Form">
 
-1. **Confirm Competition Level**: Select the correct level using the **Radio Buttons**.
-1. **Total Number of Carvings**: Enter the total number of pieces they are entering today.
-1. **Checked In**: Select the **Yes** radio button to toggle their status.  This should automatically be set to Yes for you and you won't be able to leave it as No and save your changes.  So only use the Check-In form to actually check in a person (not look up to see if they are checked in).
+1. ""Carver ID and Name**: Conform that the carver you are checking in is in fact the one you selected from the list.
+1. **Competition Level**: Confirm with the carver there level they are entering in as.  Use the Novice, Intermediate or Open **Radio Buttons** to make any corrections.
+1. **Entry Count**: Enter the total number of pieces they are entering today.
+1. **Checked In**: Select the **Yes** radio button to toggle their status.  This should automatically be set to Yes for you and you won't be able to leave it as No and save your changes.  So only use the Check-In form to actually check in a person (not look up to see if they are checked in).  Also if you accidently selected the wrong carver to check in simply click the **Cancel** button.
 1. **Payment**:
     - Review the **Payment Required** status.
     - If **Payment Required = Yes** or they have more than 15 carvings, direct the carver to the **Finance Officer (Don)** to collect the funds.
