@@ -3,13 +3,15 @@ This guide explains some of the common user interface elements that are used thr
 
 ## Common Interface Elements
 Regardless of which module you are using, you will encounter several standard controls:
-- **Search & Filtering**: Most list views support text search (by Name, ID or other searchable fields) and filtering to help you find specific records quickly.
+- **Search & Filtering**: Most list views support text search (by Name, ID or other searchable fields) as well as filtering to help you find specific records quickly.  The filtering options can be accessed by clicking the upside down triangle on the right hand side of the Search text box (circled in blue highlight in the image below).
 
     <img src="assets/list-filter-options.jpg" width="350" alt="Search and Filter">
 
-- **Refresh**: A **Refresh Button** is located at the top right of the application to manually update the data in the view, though this is usually handled automatically.
+- **Refresh**: A **Refresh Button** is located at the top right of the application (circled in blue highlight in the image below) to manually update the data in the view, though this is usually handled automatically.
 
     <img src="assets/data-refresh-action.jpg" width="350" alt="Refresh Button">
+
+- **Data Saving**: The same **Refresh Button** that was mentioned above will have an orange dot with a number in it indicating the number of records left to update when saving a single recordord or when performing bulk updates.  When more than 1 update is being performed this number will decrement as each save is completed until the orange dot goes away when the last update is done.
 
 - **Action Icons in Lists**:
     - **Add Icon (+)**: Click this to create a new record (if you have permission).
