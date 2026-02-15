@@ -38,4 +38,6 @@ Use this method if you need to update a single entry or modify specific prize in
 ## 4. Verification
 After assigning teams, you can use the **Filtering** options to view the list by Team. This ensures that no categories have been missed and that the workload is distributed correctly.
 
-    <img src="assets/list-filter-options.jpg" width="350" alt="Filtering Assignments">
+   <img src="assets/list-filter-options.jpg" width="350" alt="Filtering Assignments">
+
+
