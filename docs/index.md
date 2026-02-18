@@ -37,6 +37,7 @@ Used to look up judging results, enter judging results or maintining judging ent
 - **[Judging](Judging.md)**: For the judging team to enter 1st, 2nd, and 3rd place winners.
 - **Export Judging**: For exporting the judging entries/configuration into an excel spreadsheet format.
 - **[Setup Judging](Setup-Judging.md)**: For Admins to configure everything that needs to be judged as well as assigning the teams that will be doing the judging.
+    - **[Create Judging entries from Categories](Create-Judging-From-Categories)**: For admins to create the judging entries based on the categories.  
     - **[Assigning Teams](Assign-Teams.md)**: For Judging Managers to perform bulk or individual team assignments.
     - **[Assigning Prizes](Assign-Prizes.md)**: For Admins to assign awards to specific categories.
 
