@@ -22,7 +22,12 @@ The event spans 3 days over a weekend. It starts on Friday and ends on Sunday.
 - [ ] Make sure no users have Admin role, but make sure several users have User Management role so they can give someone Admin role if they need to.
 - [ ] Export Judging and wait for the email to come with the attachment.
 - [ ] Open the attachment and save as an Excel spreadsheet
-- [ ] Setup the spreadsheet for printing. Add "Page 1 of ?" in the footer. Orientation Landscape. Margins: top/left/right 0.25, bottom 0.5.
+- [ ] Setup the spreadsheet for printing. 
+    - Add File name in the header
+    - Add "Page 1 of ?" in the footer. 
+    - Orientation Landscape. 
+    - Margins: top/left/right 0.25, bottom 0.5.
+    - Make sure the columns fit on one page
 - [ ] Print the spreadsheet
 - [ ] Filter on each team and print individual team sheets
 - [ ] Print this Task List

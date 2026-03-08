@@ -19,7 +19,7 @@ This guide covers how to check in a competitor on the day of the event.
     <img src="assets/competitors-list-filter-applied.jpg" width="350" alt="Finding a Carver">
 
 ## 3. Opening the Check-In Form
-- Once you locate the carver, look for the **Check Box Icon** on the row.
+- Once you locate the carver, look for the **Check Box Icon** on the row. If the icon is missing then the record is likely a Duplicate one so look for another record that matches the carver you are trying to check in.
 
     <img src="assets/competitors-list-landscape-.jpg" width="350" alt="Opening the Carver Form">
 - Click the icon to open the check-in form.

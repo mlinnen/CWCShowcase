@@ -14,7 +14,7 @@ This guide covers the workflow for the Finance Team (e.g., Finance Officer) to c
     <img src="assets/competitors-list-search.jpg" width="350" alt="Finding a Competitor">
 
 ## 3. Opening the Payment Form
-- Once you locate the competitor, look for the **Dollar Sign Icon ($)** on the right side of their row.
+- Once you locate the competitor, look for the **Dollar Sign Icon ($)** on the right side of their row. If the icon is missing then the record is likely a Duplicate one so look for another record that matches the carver you are trying to edit the payment on.
 - Click the icon to open the payment details form.
 
     <img src="assets/competitors-list-payment.jpg" width="350" alt="Paymjent Icon">
