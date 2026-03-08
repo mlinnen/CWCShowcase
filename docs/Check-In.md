@@ -1,5 +1,7 @@
 # Check-In Process
-This guide covers how to check in a competitor on the day of the event.
+This guide covers how to check in a competitor on the day of the event.  It also covers how to undo a check in if the cmopetitor was checked in by mistake.
+
+It is very important that all competitors follow this process of being checked in otherwise their carvings cannot be judged. 
 
 ## 1. Accessing Competitors
 1. From the **Main Menu**, select the **Competitors** module.
@@ -41,4 +43,5 @@ Follow these steps within the form:
 1. **Cancel**: If you need to exit without saving, click the **Cancel** button.
     - *Note: You will not be prompted for confirmation when canceling.*
 
-
+## 5. I checked in the wrong person 
+This can happen but only an Admin user can reverse the checkin process.  Either contact the admin or if you have user management role you can grant yourself Admin role for a short period of time to mark a person as Checked In = No and Entry Count = 0 on the check in form.  Once you are done doing this make sure you remove your Admin role. 
