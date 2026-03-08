@@ -23,6 +23,7 @@ Used for managing the wood carvers that are registered for the event.
     - **[Update Registration Details](Update-Competitor-Registration-Details.md)**: For managing a competitor registration details.
     - **[Check-In Process](Check-In.md)**: For volunteers at the check-in desk welcoming carvers to the show.
     - **[Carver Payment Verification](Carver-Payment-Verification.md)**: For the Finance Team handling carver fees and dues.
+    - **[Handle Duplicate Registrations](Duplicate-Registrations.md)**: If a carver has registered more than once.
 - **Statistics**: For viewing statistics about registered competitors.
 - **Export Financials**: For reporting on payment details (only available to authorized individuals).
 
