@@ -29,7 +29,14 @@ Upon loading, you will see a list of all judging assignments. But you don't need
 
 1. Click DONE to apply the filter. 
 
-## 3. Selecting a Category
+## 3a. Selecting a Category
+There are two ways to do this: Quick Edit or Normal Edit
+
+### Quick Edit
+1. Locate the specific **Division**, **Category**, and **Style** you are ready to judge.
+2. Click the **Gavel** icon in the list and the judging edit form will open up.
+
+### Normal Edit
 1. Locate the specific **Division**, **Category**, and **Style** you are ready to judge.
 2. Click the **Row** to open the **Detail View**.
 3. Click the **Pencil Icon** to open the winners form.
