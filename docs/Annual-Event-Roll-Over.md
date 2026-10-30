@@ -7,7 +7,7 @@ This guide provides a comprehensive checklist and step-by-step instructions for 
 
 ## Roll-Over Checklist
 
-- [ ] **Archive Prior Event Data**: Copy the vendor and carver registration sheets to an archive folder labeled `YYYY Showcase` and clear prior data from active sheets.
+- [ ] **Archive Prior Event Data**: Copy the vendor and carver registration sheets to an archive folder labeled `YYYY Showcase`, and in the copied sheets remove any data that is not the production data for the completed event.
 - [ ] **Create New Events**: Create both a **Test** and a **Prod** event entry in the Events module with approved dates.
 - [ ] **Record Event IDs**: Note the Event IDs for the previous year and the new test/prod events.
 - [ ] **Copy Categories**: Run the Apps Script duplicate function to copy categories from the previous event to the new event.
@@ -31,13 +31,13 @@ Active registration data sheets are stored in Google Drive under:
 1. **Create an Archive Folder**:
    - In Google Drive, create a new folder named `YYYY Showcase` (where `YYYY` is the year of the event just completed).
 2. **Archive Vendor Registrations**:
-   - Make a copy of the active **Vendor Registrations** spreadsheet.
+   - Make a copy of the active **Vendor Registrations** spreadsheet (located in `Application/CWC Showcase/data`).
    - Move the copy into the `YYYY Showcase` archive folder.
-   - In the active **Vendor Registrations** sheet, remove all data that is not for the upcoming event.
+   - In the **copied** sheet, remove all data that is not for the event (such as test records or erroneous entries), so that it only contains the production data for the event that just completed.
 3. **Archive Carver Registrations**:
-   - Make a copy of the active **Carver Registrations** spreadsheet.
+   - Make a copy of the active **Carver Registrations** spreadsheet (located in `Application/CWC Showcase/data`).
    - Move the copy into the `YYYY Showcase` archive folder.
-   - In the active **Carver Registrations** sheet, remove all data that is not for the upcoming event.
+   - In the **copied** sheet, remove all data that is not for the event (such as test registrations), so that it only contains the production data for the event that just completed.
 
 ---
 
