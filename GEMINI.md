@@ -13,6 +13,7 @@ The project consists of a single `docs/` directory containing all documentation 
 └── docs/
     ├── index.md                  # Main landing page and navigation hub
     ├── Events.md                 # Event management workflow
+    ├── Annual-Event-Roll-Over.md # Annual event rollover and next year setup workflow
     ├── Check-In.md               # Competitor check-in workflow
     ├── General-Navigation.md     # How to get around in the application
     ├── Judging.md                # Judging team workflow
@@ -37,6 +38,7 @@ The project consists of a single `docs/` directory containing all documentation 
 ### Core Documentation
 *   **`docs/index.md`**: The entry point for the documentation site. It covers general application usage (navigation, common icons, standard behavior) and links to specific modules.
 *   **`docs/Events.md`**: Instructions for managing competition events.
+*   **`docs/Annual-Event-Roll-Over.md`**: Instructions for Administrators and the Show Committee to roll over data, duplicate categories and prizes, and prepare for the next annual event.
 *   **`docs/Check-In.md`**: Instructions for volunteers checking in competitors. Covers searching for carvers, confirming entries, and verifying if they need to make any payments.
 *   **`docs/General-Navigation.md`**: Instructions for volunteers on how to get around in the application using menus and various buttons.
 *   **`docs/Judging.md`**: Instructions for judging teams. Covers filtering by the assigned team, assigned carvers and entry number to 1st, 2nd, or 3rd place.

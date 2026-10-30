@@ -46,3 +46,6 @@ The following fields are managed for each event:
 2. Click the **Row** to open the **Detail View**.
 3. Select the **Delete** action.
     - *Note: Be cautious when deleting events that have associated competitors or judging results.*
+
+## 3. Annual Event Roll-Over
+When transitioning from a completed competition to the next year's event, refer to the [Annual Event Roll-Over Guide](Annual-Event-Roll-Over.md) for step-by-step instructions on data archiving, duplicating categories and prizes, generating judging entries, and updating forms.

@@ -89,3 +89,4 @@ Check-in closes at 8:30 AM and Judging starts shortly after.
 - [ ] Review any issues or feedback gathered during the event.
 - [ ] Collect the images taken on saturday and place them in a central location in google drive
 - [ ] Run the showcase results app to process the images taken at the event
+- [ ] Perform the [Annual Event Roll-Over](Annual-Event-Roll-Over.md) when planning begins for the next showcase.

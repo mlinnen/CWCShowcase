@@ -38,7 +38,7 @@ Used to look up judging results, enter judging results or maintining judging ent
 - **[Judging](Judging.md)**: For the judging team to enter 1st, 2nd, and 3rd place winners.
 - **Export Judging**: For exporting the judging entries/configuration into an excel spreadsheet format.
 - **[Setup Judging](Setup-Judging.md)**: For Admins to configure everything that needs to be judged as well as assigning the teams that will be doing the judging.
-    - **[Create Judging entries from Categories](Create-Judging-From-Categories)**: For admins to create the judging entries based on the categories.  
+    - **[Create Judging entries from Categories](Create-Judging-From-Categories.md)**: For admins to create the judging entries based on the categories.  
     - **[Assigning Teams](Assign-Teams.md)**: For Judging Managers to perform bulk or individual team assignments.
     - **[Assigning Prizes](Assign-Prizes.md)**: For Admins to assign awards to specific categories.
 
@@ -54,6 +54,7 @@ Used to manage user access to the various modules and roles.  This module does n
 ### 7. Events Module
 Used by administrators for defining event details that control registration aspects of the event. This module does not have a sub-menu so if you have access to it you will be dropped right into the list of Events.  
 - **[Events](Events.md)**: Management of the available events for competition.
+- **[Annual Event Roll-Over](Annual-Event-Roll-Over.md)**: Procedure and checklist for rolling over data and setting up the next year's event.
 
 ### 8. Menu Module
 Used by developers of the application for defining menus for the application.
@@ -63,3 +64,4 @@ If you encounter technical issues or have questions not covered in this guide, p
 
 ## Operations
 - **[Tasks](Tasks.md)**: A list of operational tasks for the event.
+- **[Annual Event Roll-Over](Annual-Event-Roll-Over.md)**: Checklist and detailed steps for preparing for the next year's event.
